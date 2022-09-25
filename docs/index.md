@@ -17,3 +17,4 @@ Rotterdam heeft verschillende discord servers die zijn goed gekeurd door het sta
 |---|---|:---:|
 |Rotterdam RolePlay| Main discord server van Rotterdam | [Invite](https://discord.gg/Rotterdam) |
 |Rotterdam Support| Support discord server van Rotterdam | [Invite](https://discord.gg/rotterdamsupport) |
+|Rotterdam Hulpdiensten| Hulpdiensten discord server van Rotterdam | [Invite](https://discord.gg/rotterdamhulpdiensten) |
