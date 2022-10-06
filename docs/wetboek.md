@@ -370,7 +370,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel III - Verkeersdelicten
 
-![Titel III](img/wetboek/verkeer.webp)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
