@@ -26,7 +26,7 @@ Wilt u zelf aan de slag als advocaat? Kijk dan eens bij de sollicitatiepagina va
 
 ## De Officier van Justitie
 
-![OvJ](img/rechtspraak/Officier_van_justitie.webp)
+
 
 De Officier van Justitie (hierna OvJ) heeft binnen Rotterdam de rol van openbaar aanklager, strafvervolger, en advocaat van de overheid. Ook is de OvJ aangewezen voor het uitgeven van bijvoorbeeld huiszoekingsbevelen.
 Naast de OvJ bestaat er nog de rol van hulpofficier van Justitie (hOvJ), en Hoofdofficier van Justitie (HOvJ). De hulpofficier van Justitie heeft dezelfde bevoegdheden als de OvJ. De OvJ heeft alleen senioriteit, en beslisbevoegdheid indien er een knoop doorgehakt moet worden. Dezelfde verdeling staat tussen de OvJ en de HOvJ, waarbij de HOvJ een additionele bevoegdheid heeft: het besluiten tot betrekking van de rechtbank in een zaak.
