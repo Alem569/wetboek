@@ -931,7 +931,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VIII - Overige
 
-![Titel VIII](img/wetboek/Overige.webp)
+
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
